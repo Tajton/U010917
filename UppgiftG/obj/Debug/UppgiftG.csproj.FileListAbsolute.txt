@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\U01091701\U010917\UppgiftG\bin\Debug\UppgiftG.exe.config
+C:\Users\Admin\Documents\U01091701\U010917\UppgiftG\bin\Debug\UppgiftG.exe
+C:\Users\Admin\Documents\U01091701\U010917\UppgiftG\bin\Debug\UppgiftG.pdb
+C:\Users\Admin\Documents\U01091701\U010917\UppgiftG\obj\Debug\UppgiftG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\U01091701\U010917\UppgiftG\obj\Debug\UppgiftG.exe
+C:\Users\Admin\Documents\U01091701\U010917\UppgiftG\obj\Debug\UppgiftG.pdb

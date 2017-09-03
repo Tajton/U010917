@@ -1,0 +1,7 @@
+c:\users\admin\documents\U01091701\U010917\U010917\bin\Debug\U010917.exe.config
+c:\users\admin\documents\U01091701\U010917\U010917\bin\Debug\U010917.exe
+c:\users\admin\documents\U01091701\U010917\U010917\bin\Debug\U010917.pdb
+c:\users\admin\documents\U01091701\U010917\U010917\obj\Debug\U010917.csproj.CoreCompileInputs.cache
+c:\users\admin\documents\U01091701\U010917\U010917\obj\Debug\U010917.exe
+c:\users\admin\documents\U01091701\U010917\U010917\obj\Debug\U010917.pdb
+c:\users\admin\documents\U01091701\U010917\U010917\obj\Debug\U010917.csprojResolveAssemblyReference.cache
